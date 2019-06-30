@@ -1,5 +1,5 @@
 # RealDeUr-UNIFEI
-My project for college, the board game Royal Game Of Ur, write in C and displayed in the windows console.
+My work for college, the board game Royal Game Of Ur, write in C and displayed in the windows console.
 
 The game is in portuguese, but I think the game is intuitive enough.
 
